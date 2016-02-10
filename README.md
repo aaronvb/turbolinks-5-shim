@@ -3,6 +3,17 @@ This module provides support for Turbolinks classic events when using [Turbolink
 
 This is an ES6 port from [src/turbolinks/compatibility.coffee](https://github.com/turbolinks/turbolinks/blob/master/src/turbolinks/compatibility.coffee).
 
+## Installation
+Add it to your `package.json`.
+
+```json
+"dependencies": {
+  "turbolinks-5-shim": "^0.1.0",
+}
+```
+
+Then `npm install`.
+
 ## Usage
 ```javascript
 import turbolinks5Shim from 'turbolinks5Shim';

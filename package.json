@@ -16,5 +16,5 @@
   },
   "main": "lib/turbolinks5Shim.js",
   "author": "Aaron Van Bokhoven",
-  "license": "MIT",
+  "license": "MIT"
 }
